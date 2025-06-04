@@ -1,7 +1,8 @@
-def hello(name):
-    print(f"Hello, {name}!")
+from task import *
 
 
 
 if __name__ =="__main__":
-    hello("World")
+    print(nasa_firms_api())
+    print()
+    print(noaa20_data())
