@@ -1,3 +1,6 @@
 .venv
 .env
 .idea/misc.xml
+__pycache__/
+__pycache__/task.cpython-313.pyc
+.idea/
